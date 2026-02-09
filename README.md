@@ -1,6 +1,6 @@
 ![Awesome Polymathic Resource Stack](Graphics/awesome_polymathic_resource_stack.png)
 
-# 🧠 AWESOME POLYMATHIC RESOURCE STACK
+# AWESOME POLYMATHIC RESOURCE STACK
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)

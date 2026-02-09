@@ -862,16 +862,6 @@ The goal isn't to prescribe a single path—it's to equip you with options acros
 - [Manifest - Productivity App](https://www.manifest.app/)
 - [Open Source Mac/iOS Apps (GitHub)](https://github.com/serhii-londar/open-source-mac-os-apps#ios--macos)
 
-**License:** CC0 - Public Domain
-
----
-
-## ⚖️ DISCLAIMER
-
-* I'm not affiliated with any tools listed (except my own projects)
-* Links are for reference only—do your own research before trusting any software
-* This list reflects my MacOS-focused workflow; many tools work cross-platform
-* Privacy and security are your responsibility—tools are just tools
 
 ---
 
@@ -886,12 +876,11 @@ The goal isn't to prescribe a single path—it's to equip you with options acros
 
 ---
 
-## 📄 LICENSE
+## 📄 LICENSE CC0 - Public Domain
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-**When everyone copyrights, copyleft.**
+**when everyone copyrights, copyleft.**
 
----
 
-**⭐ Star this repo if it helped you build a better stack.**
+

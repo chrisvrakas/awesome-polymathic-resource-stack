@@ -866,34 +866,6 @@ The goal isn't to prescribe a single path—it's to equip you with options acros
 
 ---
 
-## 🤝 CONTRIBUTING
-
-Know a tool or book that fits this polymathic philosophy? I'd love to hear about it.
-
-**Before submitting:**
-
-1. Make sure it's something you've actually used (not just heard about)
-2. Explain why it belongs in this stack (what domain does it serve?)
-3. Check it's not already listed
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
-
-**What to include:**
-- Privacy-focused tools you've personally used
-- Open-source software
-- Educational resources that changed your perspective
-- Books worth reading cover-to-cover
-- Podcasts with consistent quality
-
-**What NOT to include:**
-- Paid-only services without free tiers
-- Outdated/unmaintained projects
-- Generic listicles or aggregators
-- Affiliate spam
-- Duplicate entries
-
----
-
 ## ⚖️ DISCLAIMER
 
 * I'm not affiliated with any tools listed (except my own projects)
@@ -917,8 +889,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
 ## 📄 LICENSE
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, Chris Vrakas has waived all copyright and related or neighboring rights to this work.
 
 **When everyone copyrights, copyleft.**
 

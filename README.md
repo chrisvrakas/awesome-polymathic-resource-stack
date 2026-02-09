@@ -263,8 +263,6 @@ The goal isn't to prescribe a single path—it's to equip you with options acros
 - [Lovable](https://lovable.dev/)
 - [V0](https://v0.dev/)
 
-**License:** CC0 - Public Domain
-
 ---
 
 ## 📖 BOOKS
@@ -456,8 +454,6 @@ The goal isn't to prescribe a single path—it's to equip you with options acros
 - [Hitchhiker's Guide to the Galaxy](https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0345391802) - Douglas Adams
 - [Mr. Robot: Red Wheelbarrow](https://www.amazon.com/MR-ROBOT-Red-Wheelbarrow-eps1-91_redwheelbarr0w-txt/dp/1419724428) - Sam Esmail
 
-**License:** CC0 - Public Domain
-
 ---
 
 ## 🎬 MOVIES
@@ -533,8 +529,6 @@ The goal isn't to prescribe a single path—it's to equip you with options acros
 - [24 Hour Party People](https://www.imdb.com/title/tt4343998/) - 2002
 - [Dumb and Dumber](https://www.imdb.com/title/tt0109686/) - 1994
 - [Training Day](https://www.imdb.com/title/tt0139654/) - 2001
-
-**License:** CC0 - Public Domain
 
 ---
 
@@ -614,8 +608,6 @@ The goal isn't to prescribe a single path—it's to equip you with options acros
 ## MUSIC
 - [Hospital Records Podcast](https://www.youtube.com/playlist?list=PLgDnAjlGZItaf064nXsdxiRk60ZZhj8Rt) - Hospital Records
 - [Promoter101](https://www.promoter101.net/podcast) - Dan Steinberg
-
-**License:** CC0 - Public Domain
 
 ---
 
